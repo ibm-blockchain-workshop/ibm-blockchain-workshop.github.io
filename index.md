@@ -13,6 +13,8 @@ This is aimed at business and technical representatives. The morning focuses mor
 
 ## Contacts
 - Dave Wakeman [dwakeman@us.ibm.com](mailto:dwakeman@us.ibm.com?subject=IBM%20Blockchain%20Proof%20of%20Technology)
+- Dennis Miller [drmiller@us.ibm.com](mailto:drmiller@us.ibm.com?subject=IBM%20Blockchain%20Proof%20of%20Technology)
+- Zach Miller [Zach.Miller@ibm.com](mailto:Zach.Miller@ibm.com?subject=IBM%20Blockchain%20Proof%20of%20Technology)
 
 ## Locations
 <ul>
