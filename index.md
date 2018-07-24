@@ -31,12 +31,12 @@ You can also improve performance by dropping the image quality using the instruc
 
 ## Presentations
 - [IBM Blockchain Point of View]({{ site.url }}/docs/IBM-Blockchain-PoV.pdf)
-- [Blockchain Explained](http://ibm-blockchain-pot.github.io/docs/Blockchain-Explained-V5.04.pdf)
-- [Vehicle Lifecycle Demo Intro](http://ibm-blockchain-pot.github.io/docs/Vehicle-Lifecycle-Demo-Intro.pdf)
-- [Blockchain Composed](http://ibm-blockchain-pot.github.io/docs/Blockchain-Composed-V2.07.pdf)
-- [Blockchain Architected](http://ibm-blockchain-pot.github.io/docs/Blockchain-Architected-V2.02.pdf)
-- [Blockchain Explored](http://ibm-blockchain-pot.github.io/docs/Blockchain-Explored-v4.02.pdf)
-- [IBM Blockchain Platform Explained](http://ibm-blockchain-pot.github.io/docs/IBM-Blockchain-Platform-Explained-V1.07.pdf)
+- [Blockchain Explained]({{ site.url }}/docs/Blockchain-Explained-V5.04.pdf)
+- [Vehicle Lifecycle Demo Intro]({{ site.url }}/docs/Vehicle-Lifecycle-Demo-Intro.pdf)
+- [Blockchain Composed]({{ site.url }}/docs/Blockchain-Composed-V2.07.pdf)
+- [Blockchain Architected]({{ site.url }}/docs/Blockchain-Architected-V2.02.pdf)
+- [Blockchain Explored]({{ site.url }}/docs/Blockchain-Explored-v4.02.pdf)
+- [IBM Blockchain Platform Explained]({{ site.url }}/docs/IBM-Blockchain-Platform-Explained-V1.07.pdf)
 
 ## Helpful Links
 ### General
@@ -65,6 +65,6 @@ You can also improve performance by dropping the image quality using the instruc
 
 
 ## Lab Workbook
-If you don't have a copy of the printed materials you can access the [Lab Workbook](http://ibm-blockchain-pot.github.io/docs/Blockchain-PoT-Lab-Workbook-v1.8.1.pdf) and [Errata](http://ibm-blockchain-pot.github.io/docs/BlockchainLabErrata.pdf) online.
+If you don't have a copy of the printed materials you can access the [Lab Workbook]({{ site.url }}/docs/Blockchain-PoT-Lab-Workbook-v1.8.1.pdf) and [Errata]({{ site.url }}/docs/BlockchainLabErrata.pdf) online.
 
 
