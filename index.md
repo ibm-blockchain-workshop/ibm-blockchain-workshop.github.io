@@ -15,6 +15,7 @@ This is aimed at business and technical representatives. The morning focuses mor
 - Dave Wakeman [dwakeman@us.ibm.com](mailto:dwakeman@us.ibm.com?subject=IBM%20Blockchain%20Workshop)
 - Dennis Miller [drmiller@us.ibm.com](mailto:drmiller@us.ibm.com?subject=IBM%20Blockchain%20Workshop)
 - Zach Miller [Zach.Miller@ibm.com](mailto:Zach.Miller@ibm.com?subject=IBM%20Blockchain%20Workshop)
+- Alan Dickman [adickman@us.ibm.com](mailto:adickman@us.ibm.com?subject=IBM%20Blockchain%20Workshop)
 
 ## Locations
 <ul>
