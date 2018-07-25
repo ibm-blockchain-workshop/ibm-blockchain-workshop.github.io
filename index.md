@@ -33,12 +33,12 @@ You can also improve performance by dropping the image quality using the instruc
 
 ## Presentations
 - [IBM Blockchain Point of View]({{ site.url }}/docs/IBM-Blockchain-PoV.pdf)
-- [Blockchain Explained]({{ site.url }}/docs/Blockchain-Explained-V5.04.pdf)
+- [Blockchain Explained]({{ site.url }}/docs/Blockchain-Explained-v5.12.pdf)
 - [Vehicle Lifecycle Demo Intro]({{ site.url }}/docs/Vehicle-Lifecycle-Demo-Intro.pdf)
-- [Blockchain Composed]({{ site.url }}/docs/Blockchain-Composed-V2.07.pdf)
-- [Blockchain Architected]({{ site.url }}/docs/Blockchain-Architected-V2.02.pdf)
-- [Blockchain Explored]({{ site.url }}/docs/Blockchain-Explored-v4.02.pdf)
-- [IBM Blockchain Platform Explained]({{ site.url }}/docs/IBM-Blockchain-Platform-Explained-V1.07.pdf)
+- [Blockchain Composer Explored]({{ site.url }}/docs/Composer-Explored-V2.10.pdf)
+- [Blockchain Architectures Explored]({{ site.url }}/docs/Architectures-Explored-v2.10.pdf)
+- [Fabric Explored]({{ site.url }}/docs/Fabric-Explored-v4.4.pdf)
+- [IBM Blockchain Platform Explained]({{ site.url }}/docs/IBM-Blockchain-Platform-Explained-v1.11.pdf)
 
 ## Helpful Links
 ### General
