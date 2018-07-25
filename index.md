@@ -12,9 +12,9 @@ This event will enable you to understand blockchain concepts and understand how 
 This is aimed at business and technical representatives. The morning focuses more on business concepts while the afternoon is focused on concepts appropriate for developers and architects. It assumes no current knowledge of blockchain or its current uses. The day starts with a high-level business context and gently introduces concepts and how they work within Hyperledger Fabric and Hyperledger Composer. 
 
 ## Contacts
-- Dave Wakeman [dwakeman@us.ibm.com](mailto:dwakeman@us.ibm.com?subject=IBM%20Blockchain%20Proof%20of%20Technology)
-- Dennis Miller [drmiller@us.ibm.com](mailto:drmiller@us.ibm.com?subject=IBM%20Blockchain%20Proof%20of%20Technology)
-- Zach Miller [Zach.Miller@ibm.com](mailto:Zach.Miller@ibm.com?subject=IBM%20Blockchain%20Proof%20of%20Technology)
+- Dave Wakeman [dwakeman@us.ibm.com](mailto:dwakeman@us.ibm.com?subject=IBM%20Blockchain%20Workshop)
+- Dennis Miller [drmiller@us.ibm.com](mailto:drmiller@us.ibm.com?subject=IBM%20Blockchain%20Workshop)
+- Zach Miller [Zach.Miller@ibm.com](mailto:Zach.Miller@ibm.com?subject=IBM%20Blockchain%20Workshop)
 
 ## Locations
 <ul>
