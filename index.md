@@ -53,7 +53,7 @@ You can also improve performance by dropping the image quality using the instruc
 - [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains](https://arxiv.org/abs/1801.10228v1)
 
 ### For Developers
-- [Hyperledger Composer Developer Tutorial](https://hyperledger.github.io/composer/tutorials/developer-tutorial.html)
+- [Hyperledger Composer Developer Tutorial](https://hyperledger.github.io/composer/latest/tutorials/developer-tutorial.html)
 - [IBM Blockchain Developer Sandbox](https://developer.ibm.com/blockchain/sandbox/)
 - [Blockchain on LinuxOne mainframe](https://developer.ibm.com/code/patterns/run-blockchain-technology-on-a-linux-mainframe/)
 - [IBM Blockchain Developer Center](https://developer.ibm.com/blockchain/)
