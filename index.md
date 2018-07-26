@@ -47,7 +47,7 @@ You can also improve performance by dropping the image quality using the instruc
 - [What is Blockchain](https://www.ibm.com/blockchain/what-is-blockchain.html)
 - [IBM and Hyperledger](https://www.ibm.com/blockchain/hyperledger.html)
 - [Hyperledger Composer](https://hyperledger.github.io/composer/)
-- [Hyperledger Composer Tutorials](https://hyperledger.github.io/composer/tutorials/tutorials.html)
+- [Hyperledger Composer Tutorials](https://hyperledger.github.io/composer/latest/tutorials/tutorials)
 - [Composer Playground](http://composer-playground.mybluemix.net)
 - [IBM Blockchain - Composer - Vehicle Lifecycle Demo](https://bluedemos.com/show/159)
 - [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains](https://arxiv.org/abs/1801.10228v1)
