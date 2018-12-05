@@ -69,6 +69,6 @@ You can also improve performance by dropping the image quality using the instruc
 
 
 ## Lab Workbook
-If you don't have a copy of the printed materials you can access the [Lab Workbook]({{ site.url }}/docs/Blockchain-PoT-Lab-Workbook-latest.pdf) and [Errata]({{ site.url }}/docs/BlockchainLabErrata.pdf) online.
+If you don't have a copy of the printed materials you can access the [Lab Workbook]({{ site.url }}/docs/HyperledgerFabricBlockchainLabsv1.0.pdf) online.
 
 
