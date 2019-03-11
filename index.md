@@ -68,11 +68,19 @@ You can also improve performance by dropping the image quality using the instruc
 - [Make your blockchain smart contracts smarter with business rules](https://www.ibm.com/developerworks/library/mw-1708-mery-blockchain/1708-mery.html)
 
 
-## Lab Workbooks
+## IBM Blockchain Platform V1 Lab Workbooks
 If you don't have a copy of the printed materials you can access the [Lab Workbook]({{ site.url }}/docs/HyperledgerFabricBlockchainLabsv1.0.pdf) online.
 
 If you don't have a copy of the printed materials you can access the [Lab Workbook]({{ site.url }}/docs/Lab%201%20-%20IBP%20Learn%20Blockchain%20Concepts.pdf.pdf) online.
 
-If you don't have a copy of the printed materials you can access the [Lab Workbook1]({{ site.url }}/docs/HyperledgerFabricBlockchainLabsv1.0.pdf) online.
 
+## IBM Blockchain Platform V2 Lab Workbooks
+If you don't have a copy of the lab 1 printed materials you can access the [Lab Workbook1]({{ site.url }}/docs/Lab1-IBPLearnBlockchainConcepts.pdf) online.
 
+If you don't have a copy of the lab 2 printed materials you can access the [Lab Workbook2]({{ site.url }}/docs/Lab2-IBPVSCodeDevelopingyourFirstContract.pdf) online.
+
+If you don't have a copy of the lab 3 printed materials you can access the [Lab Workbook3]({{ site.url }}/docs/Lab3-IBPVSCodeExtensionUsinganExistingContract.pdf) online.
+
+If you don't have a copy of the lab 4 printed materials you can access the [Lab Workbook4]({{ site.url }}/docs/Lab4-IBPVSCodeExtensionConnecttoExistingNetwork.pdf) online.
+
+If you don't have a copy of the lab 5 printed materials you can access the [Lab Workbook5]({{ site.url }}/docs/Lab5-IBPVSCodeExtensionImportCommercialPaperSample.pdf) online.
