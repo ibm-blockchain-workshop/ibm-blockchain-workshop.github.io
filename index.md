@@ -68,9 +68,11 @@ You can also improve performance by dropping the image quality using the instruc
 - [Make your blockchain smart contracts smarter with business rules](https://www.ibm.com/developerworks/library/mw-1708-mery-blockchain/1708-mery.html)
 
 
-## Lab Workbook
+## Lab Workbooks
 If you don't have a copy of the printed materials you can access the [Lab Workbook]({{ site.url }}/docs/HyperledgerFabricBlockchainLabsv1.0.pdf) online.
 
 If you don't have a copy of the printed materials you can access the [Lab Workbook]({{ site.url }}/docs/Lab%201%20-%20IBP%20Learn%20Blockchain%20Concepts.pdf.pdf) online.
+
+If you don't have a copy of the printed materials you can access the [Lab Workbook1]({{ site.url }}/docs/HyperledgerFabricBlockchainLabsv1.0.pdf) online.
 
 
