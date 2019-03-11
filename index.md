@@ -37,8 +37,8 @@ You can also improve performance by dropping the image quality using the instruc
 - [Blockchain Explained]({{ site.url }}/docs/Blockchain-Explained-v5.16.pdf)
 - [Vehicle Lifecycle Demo Intro]({{ site.url }}/docs/Vehicle-Lifecycle-Demo-Intro.pdf)
 - [Modeling Blockchain Applications]({{ site.url }}/docs/Modeling-Blockchain-Applications-v1.0.pdf)
-- [Blockchain Architectures Explored]({{ site.url }}/docs/Architectures-Explored-v3.0.1.pdf)
-- [Fabric Explored]({{ site.url }}/docs/Fabric-Explored-v4.0.7.pdf)
+- [Blockchain Architectures Explored]({{ site.url }}/docs/Architectures-Explored-v3.01.pdf)
+- [Fabric Explored]({{ site.url }}/docs/Fabric-Explored-v4.07.pdf)
 - [IBM Blockchain Platform Explained]({{ site.url }}/docs/IBM-Blockchain-Platform-Explained-v1.18.pdf)
 
 ## Helpful Links
